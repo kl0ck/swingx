@@ -1,5 +1,6 @@
-Readme - SwingLabs SwingX Project - http://swingx.dev.java.net
+FORK DO SWINGX
 
+Readme - SwingLabs SwingX Project - http://swingx.dev.java.net
 
 SwingX is a library of components and utilities extending the Java Swing library; read more at our website, 
 http://swingx.dev.java.net, and Wiki page, http://wiki.java.net/bin/view/Javadesktop/SwingLabsSwingX
