@@ -1,4 +1,6 @@
+==============
 FORK DO SWINGX
+==============
 
 Readme - SwingLabs SwingX Project - http://swingx.dev.java.net
 
